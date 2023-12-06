@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Stock_Tracking_Program/1.0.0": {
+        "runtime": {
+          "Stock_Tracking_Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stock_Tracking_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

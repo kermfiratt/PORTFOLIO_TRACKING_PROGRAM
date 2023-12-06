@@ -1,0 +1,15 @@
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/bin/Debug/net7.0/Stock_Tracking_Program
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/bin/Debug/net7.0/Stock_Tracking_Program.deps.json
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/bin/Debug/net7.0/Stock_Tracking_Program.runtimeconfig.json
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/bin/Debug/net7.0/Stock_Tracking_Program.dll
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/bin/Debug/net7.0/Stock_Tracking_Program.pdb
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/Stock_Tracking_Program.csproj.AssemblyReference.cache
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/Stock_Tracking_Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/Stock_Tracking_Program.AssemblyInfoInputs.cache
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/Stock_Tracking_Program.AssemblyInfo.cs
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/Stock_Tracking_Program.csproj.CoreCompileInputs.cache
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/Stock_Tracking_Program.dll
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/refint/Stock_Tracking_Program.dll
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/Stock_Tracking_Program.pdb
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/Stock_Tracking_Program.genruntimeconfig.cache
+/Users/keremfiratt49/Desktop/Stock_Tracking_Program/obj/Debug/net7.0/ref/Stock_Tracking_Program.dll
